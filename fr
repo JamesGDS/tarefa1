@@ -1,0 +1,36 @@
+[33mcommit 1717f98efe05e276f737c4f8daf0d2e8e9dbce48[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Tiago Santos <tiago14mengao@gmail.com>
+Date:   Fri Sep 1 16:49:39 2023 -0300
+
+    teste 3
+
+[33mcommit 45073a9f67450aa4c7338ad26abf8ca63a5fbed9[m
+Merge: 13ccedd 99828a5
+Author: Tiago Santos <tiago14mengao@gmail.com>
+Date:   Wed Aug 30 17:19:56 2023 -0300
+
+    Merge branch 'main' of github.com:JamesGDS/tarefa1
+
+[33mcommit 13ccedd38f4c8aecb6b6553a2ffec2430094df86[m
+Author: Tiago Santos <tiago14mengao@gmail.com>
+Date:   Tue Aug 29 13:51:36 2023 -0300
+
+    terceiro teste em andamento
+
+[33mcommit 99828a5877ee6bdd74aa082b53a5e46de0f9ae3e[m
+Author: Tiago Santos <tiago14mengao@gmail.com>
+Date:   Tue Aug 29 13:51:36 2023 -0300
+
+    terceiro teste em andamento
+
+[33mcommit b770e2e5a1984a88dd8b9a55c904d05387236a1a[m
+Author: Tiago Santos <tiago14mengao@gmail.com>
+Date:   Tue Aug 29 13:48:15 2023 -0300
+
+    criei um texto como frase
+
+[33mcommit c901f209fd54b5eb217cd4a59fabff898bfb1cf2[m
+Author: Tiago Santos <tiago14mengao@gmail.com>
+Date:   Tue Aug 29 13:34:28 2023 -0300
+
+    criei a pagina junto ao css
